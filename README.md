@@ -9,3 +9,4 @@ Projeto   |  Código  |
 Color Flipper |[Link](https://github.com/maahbatistaa/projects-javascript/tree/main/color-flipper) 
 Counter | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/counter)
 Reviews | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/reviews)
+Navbar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/navbar)
