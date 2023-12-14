@@ -4,9 +4,10 @@ O intuito desses projetos é conseguir treinar e aperfeiçoar minha lógica e mi
 ### Projetos 
 Uma lista de todos os projetos que foram desenvolvidos
 
-Projeto   |  Código  | 
---------- | -------- | 
-Color Flipper |[Link](https://github.com/maahbatistaa/projects-javascript/tree/main/color-flipper) 
-Counter | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/counter)
-Reviews | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/reviews)
-Navbar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/navbar)
+ID | Projeto   |  Código  | 
+----|--------- | -------- | 
+1 | Color Flipper |[Link](https://github.com/maahbatistaa/projects-javascript/tree/main/color-flipper) 
+2 | Counter | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/counter)
+3 | Reviews | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/reviews)
+4 | Navbar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/navbar)
+5 | Sidebar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/sidebar)
