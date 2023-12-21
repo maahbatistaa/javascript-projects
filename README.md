@@ -1,13 +1,14 @@
-# Projetos JavaScript
-O intuito desses projetos é conseguir treinar e aperfeiçoar minha lógica e minhas habilidades em JavaScript
+# JavaScript Projects
+The purpose of these projects is to train and improve my logic and JavaScript skills
 
-### Projetos 
-Uma lista de todos os projetos que foram desenvolvidos
+### Projects
+A list of all projects that have been developed, and throughout development I will add others
 
-ID | Projeto   |  Código  | 
+ID | Project  |  Code  | 
 ----|--------- | -------- | 
 1 | Color Flipper |[Link](https://github.com/maahbatistaa/projects-javascript/tree/main/color-flipper) 
 2 | Counter | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/counter)
 3 | Reviews | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/reviews)
 4 | Navbar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/navbar)
 5 | Sidebar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/sidebar)
+6 | Modal | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/modal)
