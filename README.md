@@ -13,3 +13,4 @@ ID | Project  |  Code  |
 5 | Sidebar | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/sidebar)
 6 | Modal | [Link](https://github.com/maahbatistaa/projects-javascript/tree/main/modal)
 7 | Questions | [Link](https://github.com/maahbatistaa/javascript-projects/tree/main/questions)
+8 | Menu | [Link](https://github.com/maahbatistaa/javascript-projects/tree/main/menu)
